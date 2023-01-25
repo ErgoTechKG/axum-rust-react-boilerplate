@@ -1,0 +1,21 @@
+{
+  "src/assets/tauri.svg": {
+    "file": "assets/tauri.77a71c72.svg",
+    "src": "src/assets/tauri.svg"
+  },
+  "index.html": {
+    "file": "assets/index.08572e18.js",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index.bd9d8797.css"
+    ],
+    "assets": [
+      "assets/tauri.77a71c72.svg"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index.bd9d8797.css",
+    "src": "index.css"
+  }
+}
